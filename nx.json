@@ -3,5 +3,6 @@
     "version": "22.5.4"
   },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "defaultBase": "master"
+  "defaultBase": "master",
+  "nxCloudId": "69b32b9d0c3707738831af3f"
 }
